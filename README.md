@@ -1,6 +1,6 @@
 NAME : DRISHTY MANISH GOEL
 DURATION : JULY 15TH - SEPTEMBER 15TH 2024
-ID : CT8ML1842
+ID : CT12DS1843
 COURSE: MACHINE LEARNIHG
 OVERVIEW OF THIS PROJECT: 
 Objective: Build a sentiment analysis model using TensorFlow to classify IMDb movie reviews as positive or negative.
